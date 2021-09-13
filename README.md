@@ -1,9 +1,7 @@
-### Olá, seja bem vindo ao meu perfil ! 👋
+### Seja bem vindo ao perfil de Vinícius ! 👋
 
-### Me chamo Vinícius
-
-- 🔭 Hoje trabalho como Suporte E-commerce
-- 📖 Estudando Sistemas de Informação
+- 🔭 Hoje trabalho como Suporte E-commerce para a LMBike, LMMoto e Sense Bike 
+- 📖 Estudando Sistemas de Informação na instituição Newton Paiva
 - 📚 Aprendendo em JAVA
 - 📫 Email de contato: vinicius99santos@hotmail.com
 
