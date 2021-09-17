@@ -1,8 +1,8 @@
 ### Seja bem vindo ao perfil de Vinícius ! 👋
 
-- 🔭 Hoje trabalho como Suporte E-commerce para a LMBike, LMMoto e Sense Bike 
+- 🔭 Hoje trabalho como Suporte E-commerce para a <a href = "https://portal.lmbike.com.br/glstorefront/glbikes/pt/BRL/"><img src="https://img.shields.io/badge/LM-Bike-%231d6adb" target="_blank"></a>, <a href = "https://portal.lmmoto.com.br/glstorefront/glmotos/pt/BRL/"><img src="https://img.shields.io/badge/LM-Moto-%231d6adb" target="_blank"></a> e <a href = "https://portal.sensebike.com.br/glstorefront/glsense/pt/BRL/"><img src="https://img.shields.io/badge/Sense-Bike-%2304b0a6" target="_blank"></a> 
 - 📖 Estudando Sistemas de Informação na instituição Newton Paiva
-- 📚 Aprendendo em JAVA
+- 📚 Aprendendo JAVA
 - 📫 Email de contato: vinicius99santos@hotmail.com
 
  <div>
@@ -19,6 +19,7 @@
 ##
 
 <div> 
+  <a href = "mailto:vinicius99santos@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href = "mailto:vinicius99santos.vs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/viniciiusmaia11/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://steamcommunity.com/id/vinicinz2/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
